@@ -1,0 +1,48 @@
+.head-text{
+    position: relative;
+    display: inline-block;
+    color: white;
+    
+}
+.topp{
+    display: inline;
+    padding-left: 20px;
+}
+.tpp{
+    margin-left: 20px;
+}
+.imge{
+display: inline-block;
+
+}
+.tme{
+    margin-left: 50px;
+}
+.dte{
+    padding-left: 100px;
+    margin-right: 50px;
+}
+.rate{
+    border: 1px solid green ;
+    border-radius: 5px;
+    padding: 0px 5px;
+    color: white;
+    background: green;
+
+
+}
+.imgee{
+    border-radius: 50%;
+    border: 10px solid transparent;
+}
+.imm{
+    border: 3px solid red;
+    border-radius: 50%;
+
+}
+.center__text{
+    position: absolute;
+      top: 50%;
+      left: 60%;
+      transform: translate(-50%, -50%);
+    }
